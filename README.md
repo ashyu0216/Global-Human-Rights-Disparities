@@ -43,7 +43,7 @@ The project focuses on three main questions:
 
 ## Files
 
-- `GlobalHumanRightsDisparitiesAnalysis.pdf` – final project report
+- `index.html` – final project report (link provided on the right side)
 - `README.md` – project summary
 
 ## Takeaway
