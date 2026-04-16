@@ -24,7 +24,7 @@ The project focuses on three main questions:
 - HRMI Civil and Political Rights (CPR) Dataset
 - HRMI People at Risk Dataset
 - Income-adjusted country classification data
-- Pacific/Taiwan regional classification data :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+- Pacific/Taiwan regional classification data
 
 ## Methods
 
@@ -32,14 +32,13 @@ The project focuses on three main questions:
 - Dataset merging across multiple sources
 - Feature selection and grouping
 - Line plots, bar charts, and scatter plots
-- Correlation-based interpretation of human rights indicators across countries and regions :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
-
+- Correlation-based interpretation of human rights indicators across countries and regions 
 ## Key Findings
 
-- High-income countries showed consistently higher physical integrity rights than low/middle-income countries from 2017 to 2023. :contentReference[oaicite:6]{index=6}
-- In high-income countries, stronger physical integrity rights were associated with lower migrant/immigrant risk of torture and ill-treatment, while low/middle-income countries showed much greater variability. :contentReference[oaicite:7]{index=7}
-- In Pacific countries, freedom of expression was the most poorly protected right for most years, while continental countries showed weaker and more fluctuating performance across empowerment, expression, and assembly rights. :contentReference[oaicite:8]{index=8}
-- In selected Asia-Pacific regions, higher empowerment scores were associated with lower education risk for women and girls. Taiwan and South Korea had the strongest empowerment scores, while China and Vietnam had lower scores. :contentReference[oaicite:9]{index=9}
+- High-income countries showed consistently higher physical integrity rights than low/middle-income countries from 2017 to 2023.
+- In high-income countries, stronger physical integrity rights were associated with lower migrant/immigrant risk of torture and ill-treatment, while low/middle-income countries showed much greater variability.
+- In Pacific countries, freedom of expression was the most poorly protected right for most years, while continental countries showed weaker and more fluctuating performance across empowerment, expression, and assembly rights.
+- In selected Asia-Pacific regions, higher empowerment scores were associated with lower education risk for women and girls. Taiwan and South Korea had the strongest empowerment scores, while China and Vietnam had lower scores.
 
 ## Files
 
